@@ -1,0 +1,8 @@
+openapi: "3.0.3"
+info:
+  title: "kotlin_htmx_exploration API"
+  description: "kotlin_htmx_exploration API"
+  version: "1.0.0"
+servers:
+- url: "https://kotlin_htmx_exploration"
+paths: {}
